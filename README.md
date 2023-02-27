@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santilondo19&label=Profile%20views&color=0e75b6&style=flat" alt="santilondo19" /> </p>
 
-- 🌱 I’m currently learning **NextJs,GraphQl**
+- 🌱 I’m currently learning **GraphQl**
 
 - 📫 How to reach me **santi19.ingsistemas@gmail.com**
 
